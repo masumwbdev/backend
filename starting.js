@@ -1,5 +1,5 @@
-setTimeout(() => {
-    console.log("Masum")
+setTimeout( () => {
+    console.log("hello world");
 }, 5000);
-console.log("Mia")
-console.log(globalThis)
+console.log("Masum");
+console.log(typeof global)
